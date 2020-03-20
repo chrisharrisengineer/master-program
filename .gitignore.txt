@@ -1,0 +1,9 @@
+cropped_pics
+clotting_and_sf_tests/Tensorflow/**
+!clotting_and_sf_tests/Tensorflow/models/research/object_detection/object_detection_image.py
+!clotting_and_sf_tests/Tensorflow/models/research/object_detection/data_platelet
+!clotting_and_sf_tests/Tensorflow/models/research/object_detection/object_detection_image_soluble_fibrin.py
+!clotting_and_sf_tests/Tensorflow/models/research/object_detection/data_SF
+__pycache__
+
+
